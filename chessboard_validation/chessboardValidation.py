@@ -1,6 +1,6 @@
 #! Python3
 # chessBoardVamidation.py
-# ABSP - Chapter 4
+# ABSP - Chapter 5
 
 # Necessary conditions:
 # - exactly one black & white king - otherwise game finished
